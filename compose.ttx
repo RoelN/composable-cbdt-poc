@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.22">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="uni200D"/>
+    <GlyphID id="2" name="u1F469"/>
+    <GlyphID id="3" name="glyph00003"/>
+    <GlyphID id="4" name="glyph00004"/>
+    <GlyphID id="5" name="uni2764"/>
+    <GlyphID id="6" name="glyph00006"/>
+    <GlyphID id="7" name="glyph00007"/>
+    <GlyphID id="8" name="glyph00008"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.2"/>
+    <checkSumAdjustment value="0xbeed9115"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00011011"/>
+    <unitsPerEm value="2048"/>
+    <created value="Fri Jul 18 15:30:55 1997"/>
+    <modified value="Tue May 28 12:55:15 2019"/>
+    <xMin value="-683"/>
+    <yMin value="-431"/>
+    <xMax value="2556"/>
+    <yMax value="1869"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="9"/>
+    <fontDirectionHint value="1"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="1491"/>
+    <descent value="-431"/>
+    <lineGap value="269"/>
+    <advanceWidthMax value="2812"/>
+    <minLeftSideBearing value="-683"/>
+    <minRightSideBearing value="-683"/>
+    <xMaxExtent value="2556"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="9"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="9"/>
+    <maxPoints value="147"/>
+    <maxContours value="7"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="2"/>
+    <maxTwilightPoints value="16"/>
+    <maxStorage value="47"/>
+    <maxFunctionDefs value="101"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="882"/>
+    <maxSizeOfInstructions value="2435"/>
+    <maxComponentElements value="4"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="3"/>
+    <xAvgCharWidth value="2574"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00001000"/>
+    <ySubscriptXSize value="1434"/>
+    <ySubscriptYSize value="1331"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="283"/>
+    <ySuperscriptXSize value="1434"/>
+    <ySuperscriptYSize value="1331"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="977"/>
+    <yStrikeoutSize value="102"/>
+    <yStrikeoutPosition value="530"/>
+    <sFamilyClass value="2053"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="11"/>
+      <bWeight value="5"/>
+      <bProportion value="2"/>
+      <bContrast value="4"/>
+      <bStrokeVariation value="2"/>
+      <bArmStyle value="4"/>
+      <bLetterForm value="2"/>
+      <bMidline value="2"/>
+      <bXHeight value="3"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange2 value="00000010 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="MS  "/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="8205"/>
+    <usLastCharIndex value="65535"/>
+    <sTypoAscender value="1491"/>
+    <sTypoDescender value="-431"/>
+    <sTypoLineGap value="269"/>
+    <usWinAscent value="2210"/>
+    <usWinDescent value="514"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="1024"/>
+    <sCapHeight value="1434"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="9"/>
+  </OS_2>
+
+  <hmtx>
+    <mtx name=".notdef" width="1322" lsb="166"/>
+    <mtx name="glyph00003" width="1440" lsb="0"/>
+    <mtx name="glyph00004" width="1296" lsb="0"/>
+    <mtx name="glyph00006" width="1222" lsb="0"/>
+    <mtx name="glyph00007" width="1222" lsb="-72"/>
+    <mtx name="glyph00008" width="0" lsb="-683"/>
+    <mtx name="u1F469" width="2812" lsb="256"/>
+    <mtx name="uni200D" width="0" lsb="-219"/>
+    <mtx name="uni2764" width="2812" lsb="256"/>
+  </hmtx>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2764" name="uni2764"/><!-- HEAVY BLACK HEART -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="52" language="0" nGroups="3">
+      <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2764" name="uni2764"/><!-- HEAVY BLACK HEART -->
+      <map code="0x1f469" name="u1F469"/><!-- WOMAN -->
+
+      <map code="0x61" name="glyph00003"/><!-- a = woman incl. body -->
+      <map code="0x62" name="glyph00004"/><!-- b = woman incl. body -->
+
+      <map code="0x63" name="glyph00006"/><!-- c = woman head left, glyph covers full width -->
+      <map code="0x64" name="glyph00007"/><!-- d = woman head right, glyph covers full width -->
+      <map code="0x65" name="glyph00008"/><!-- e = small heart, width = 0 -->
+    </cmap_format_12>
+  </cmap>
+
+  <CBDT>
+    <header version="2.0"/>
+    <strikedata index="0">
+      <cbdt_bitmap_format_17 name="glyph00006"> <!--woman head left  -->
+        <SmallGlyphMetrics>
+          <height value="125"/>
+          <width value="80"/>
+          <BearingX value="0"/>
+          <BearingY value="125"/>
+          <Advance value="80"/>
+        </SmallGlyphMetrics>
+        <rawimagedata>
+89504e470d0a1a0a0000000d49484452000000500000007d08060000003523e445000004e5494441547801eddb03ac246914c5f1ce78d6b66ddbb6ed0dd61c7ba235c7b66ddbb66ddbc6dd73969597de9eaefada7592fc87af707f0fdda588992987842040010a50804a800214a0009500052840012a010a508002540214a00005a8042840010a500950800214600626c09bd79d821e455fa09a68009a8dd6a11dc8d03eb4092d42d3d000541371192e7b4a58000976147a16554153d161648e1d465c5715c4751f954b8044cb871e476dd04e64496e276a831e47f9b2159070c7a0626809b234b5041543c7640b20e18aa2d26803b20c69032a838a663220f1de40cb906568cbd01b990648b8f3511f6459525f747e260012ef1db40d5996b50dbd932e40c215418d9065798d394b2a0189771a1a8d2c471acd99520148bc0bd1426439d642ce964c40e25d895621cbd138db95c90024de256805b21c8f335e924840e29d8a16200b490b387322008957088d4516b2c6a2c289006c882ca435740124de3bc842de3bbe013d8767db4c80db681104b02f3253acaf3f409eb1105adede8c07907847453d25a56872543c806590454d958909c853df31cf24ab8d348a05f8a5908ed897d10089970f2d16d0115b42ab68808f0b27ee9e8806d8463071d7d60b48bca37c5df456b43ada0bf882507cf78217b0ae407c57d70b385f20be9b4f3be29d268cc09d46c0270411b82709584e10812be776ca5e3524e02041046e3001e70822707308b84e10815b47c0ed8208dc8e8810dc22e03e41b8016e1484c3b7b0fb63087a11992e88c0cd717b23ad86b81dcaa9863a99e056399dce72eb299d50753ea16a1671b9ff59a7f4ff02ac2710dfd54de0654d5dd63c5a17d61d2eac2322b6154cd05b3b98dece38df5c942fae130b6a29ad82df60a9be8e798bafeff383bac5573799fba84cd21f73d0630e8c0f95082c6f6ff97ad46bff6dab060a0d21580cf2fdacdc131dafaabfedee85a1c7a3c1531daea9ef0bf0bc89918bd1de4f6a3e157a401ad082267e009b23630dbffa36b4788dbefa8e068c358f07907897a383c8d825630bd9d857ba850e8f335f3aa69017902657c403581f99b7eb879c680b9e1c191a3cceca99f338b006b10089770ada8d2c6f77f73ed7563e3c29e7f13823678d62c0f6a15363019641f67fdddfe3425bfec8c49cc5e36c9c3196018d6201ce4316ab5b079c6eb39e199c6b789c89b31d098fcd8b0648bcdb90c5d3b5c38eb351af75ce193ccec299e29d9f56d100ab208b37be3ad7285531dbf1380367f183c7aa44035c88cc6fef3578d0b6dc3b2febe0b8cfef377888330469a117907857200bdaedfdceb4beef35cd1a3ceeeb1dfdcee2bebb74a517f07364ae7d
+58e7715bf6e8f88c85e3be711f13312bcdbc809d9025a2cbc614b64adfbd671bee9f953170dc97cadfbdcf7d4b141eebe0055c892c915d39f2282bfbd35bb6e4b1b16983e3b6b90fdc9744cf4733da11ef4c64c9ea8209f9ecb566775a9b4faad8cebb16271d8ddbe0b6b84d6e3b99b3d18e808f234b45978d2e626f37becfaa962c65d39eef6f876f7107e33ab82eae93ebe63652350fed08580c593ae201fb6bcdefb052bfbc66354b56b401efb4b4d9cf0cb1750fccf07eb5f2cffc37fe1f3f861fcb65b8acf7a03f1d1523600d6481523509d84d1081eb46c0898208dc44022e1244e0161170b32002b799803b0511b85d1121b845c0fd827003dc2208b76fe16582707b11992d08b7b731130411b8896e8772aa9b4e26b855d3ed74962af607fa0c596c0974697b0000000049454e44ae426082
+
+
+
+
+
+        </rawimagedata>
+      </cbdt_bitmap_format_17>
+
+      <cbdt_bitmap_format_17 name="glyph00007"> <!--woman head right  -->
+        <SmallGlyphMetrics>
+          <height value="125"/>
+          <width value="80"/>
+          <BearingX value="-5"/>
+          <BearingY value="125"/>
+          <Advance value="80"/>
+        </SmallGlyphMetrics>
+        <rawimagedata>
+89504e470d0a1a0a0000000d49484452000000500000007d08060000003523e445000004e7494441547801eddb038c2c5914c6f1c9b36ddbd1da7cb68d78bdfbd83bcb686d3cdbb66ddbb66debecf9924a32e8ede9bab7dd5f92ffe374d53dbf61dfaa4e10118b1811220f90808c8004242001190109484002320212908004640424200109c808484002129011908004242023200109f8ec6629a0d5d23ed67a6b8bb4bdda05ed9626da03ed8a7644dbe1bc4d6f3cc6796c817801045836ad91f6a7b65d7baa89654f9d63fde91c3b5b2c01022d9d56471ba7ddd624c8dd76ce55474b17ad8080cba175d58e6912a68e396bc8112d8080cbaaf5d22e6912215dd23c5ad64806045e5bed842611da09ac31d20001575a9ba74994345f2b1d0980c0eba8ddd024cabaa1750c1720e0b268433489f2866296500202af90b656931809b3140a0520f0ca6a873589b10e63b6600202afaa764693180db3550d0620f02a68a73489f1306385400202afa07648933809b3160c0420f03269eb3589b3d66b990301385893386db015a0f343b2c4791d8d009da76737080803296d02385f13c464be2b4067574592c5daf90308bc6c5eb7a4184cb2f903e8d1c46bcce313105bdf3e7792d96518f902fc844869f6895740e7ead95102a5d931587903ac431cbfabeb0d701c61fc6e7c5240e0657375d19bc12a7b52c0a644715dd3a480fd09e2bafe49010f12c475076107bc42c430ae1000eb12c2b87a004c24847189765bf66c30009710c2b8a500dc4708e3f601f002218cbb00c09b8430ee560211ec02e00342d8015e2684dda7f03142d87d13d94908e3f6f10769bb96f1a99c5d83b999605722b7b3ecaacf0d55bb0a395bfac6f73f734bdf011c4010d7f5e765cd005ed6ccce0beb1617d61dc4f18431bcb503f1c719fb9b8bd2f9b5b1c08ec3cafc064bf699cf5b7c8df707798baf1f3799334fb05fe6c097393888ed0896aaf6ae5eeaf5c2fa878b89a6696ab1c4f56be526577b7ee0ab2b6ec43d1e0c26d57871a02bc0cd0909e5b5fbbdeb778a7b4018c002266e00476a823efd6670dce27dfaed10182034d21f40e055d61e6b82d667ca2c2d87af8f3b3cccbc2e5396a48030a9e20fe0404d92b62c6f41a937ed50dce06156cc9cc2010df20508bc02da5d4d5236b764057977eee998c7c38c98d58b017aa015f405e8d1e4ff9a55b6aad49c733266f1301b66f461803cbe000f68e2ab45854b4ac3897b620e0f3361b6b4e687913740e0bda0893fadc8954f5a0f5d133378980533f93b3facbc01fea989bfe1bb734fcfbfd18e8719308b1b3cf4a737c0c39ab86dd0dbcde4f565d7a20e0e6b1ef44e73cc60d2e1a480c0aba289690b8a9696ceffce8f1a3cac7541b13258bb4d5593027ea4
+896dfdeab4935ab34f442c1cd686350662569825059ca249205a9739ab7cdfd9236f2ebe14317058cbf75d3ec7da0285872625053cad49205b9d2da7fcdcbeabd49e792c6c703837d680b5047a3e98c10e78453509569bd2a593112fd791f77f1827afacba1d74349c03e7c23971ee60ce063b00d6d12414adcd924d86bed1483c3dfe9226e376c8739b9e5a83e11838168e8963e31ca19a077600ecaa4938c213f6912fd5965f5b7f2c3d3cbda563df45d270d25e796be185a41fadf833fe0dff87b7c1dbe231786c9227fd61a92b00ffd5c428d61b80330861dc0c006e2684719b01788410c61d01e0554218771580b70961dc9d0422d805c08784b003bc4608bb4fe11384b0fb26b29710763fc66c2284719bf954ceae19dc4cb0abb7dd7616ebfa1f2ecc510ff9777b8d0000000049454e44ae426082
+
+        </rawimagedata>
+      </cbdt_bitmap_format_17>
+
+    <cbdt_bitmap_format_17 name="glyph00008"> <!-- small heart  -->
+        <SmallGlyphMetrics>
+          <height value="125"/>
+          <width value="80"/>
+          <BearingX value="-40"/>
+          <BearingY value="125"/>
+          <Advance value="0"/>
+        </SmallGlyphMetrics>
+        <rawimagedata>
+89504e470d0a1a0a0000000d49484452000000500000007d08060000003523e44500000c3a494441547801b4d4038c24411480e13adbb66ddb8eceb66da393f1d9b66ddbb66ddb66dd9fe4f876773c937ca3ee2e3d28b75e8d8cf0885222be110351111d553008b5d010add10103b00317b00b13d10679900f4519ab108a202ee2a8fa466c24462aa44002c440248486f2467565644773587fa98472288902a88b8250def2e8e6baca088ff6588ae3b0a1270c987ed9038d2f78859b388a256885705081c23af3c3864d38895b188d1ee883bee887a9b88973d886c12815b003aca78cc67c2ec33d1c834918813d78078de05c467dc6ca883050fec2b815310607f0021adfb00616b1d645f82cd6f61a47311245fc79802960c12d68dcc004b1203b8e423b710fb361410714461c281fa540171c13f3ddc72c9884a9b8038de0bc8203e911d6d7034c8739f886cf3882e16241166cc37b6804e70206c10480df98887c505eca86b9f824e6fb8aa5623e3356e023b413db60450fe441246f0f303176e12b342e639858d4489c8476e209a6436e6617bee31a2a4179281f4ee1d7fa003cc272d82133ef113482f3144b45b9f7436dc4f0f400236107bee20bce60224cc22efc8086f415e7301e2661155e8972ab02e5a6a2b80a39f72bcc866c2fcb9c1e1eb00e2661015e6025c2b97d80ff94adfe1565b31878140e3b2b875f3d6fac786e28f6fe1e5bf8c9ce3500c9b225d15adbb66ddb7668036bdb36c67cb66ddb7efd6cdb1e7b66fba126e2cc4645c6c97bea3fa3232217ff774edf3af7e6c93c79b3fa28cd82fce4edb5fea090d9e4e48d1689ad1619bb34e987cc7d029f6907efa702f047b1b5c0f1486c03c9ceac0f2ce80ac27204c97e736cc825ec3212d14b02e03d0759d6fa9eb134011b0110bc2869265c9907d08f1bbf86d8bea9007c114ec2ff90308a08f12f8dad51942a7637cb41cef501bf6af0d42703008e74366c9a050f61db11f8be2c9ea5d8f80d8aad2af06ccf7301045f5dc509ea69fe70458a8471c1291d960abf73a8cd0a62fb3bb23f8b8c0e03dc19f8e59bef1b080aa1df0780269175f6034897991f42b9d203f02520e12db1f5e120b83b7a1909a31b098759e019ef614e92effb556ccfea5a1b76fd54d20f513086248ce98942dab305e4f9c6842204b62eb67fc6f64406601f805060c914a07688133420e987d0582316d48c13641f66161250041b48887f2628c6725e9d3879b349d87607df533f003b37c1e91fb2003e36b65d887ffb306b058fec8f6d8803424b20d11c714aa3b1b15d00482f8fedb57880649d37ccf8e4a3e438e5250c1c80e9d60fdf77466cf42ae3f7ebd89e9004f02bf641c0792b450970049f637ecd422e0d27e1b7c09438bdb13949
+e06790b54e1211d2020ab2c9ad2fa2c7f36b403d5c41d6fad524803f20e1076de9da5964455b232e1225ce09ec7a3e295aeb883aa881df695224236b821f89c17fa2f5c3c61cc486796b5d4414d45024d9055d003e1ca49dfce0122ffc607b88b62d024fd408d0fb91d248f9b511aecc4748ba11025b44367984486c59248c4ad2713a9628bb1ed509e0938cc24853aa0c210fb332e487054fb4c53540b82cb4f4749b30b0864b42db4eb54911201c0cf83532598724bbd350c59b2290343e04107c6dbb87113f326283e04a2bebf200e879515c8f20fc3339c45db059e4fbc6d92299d85a02fa4027d1fc2e82feec0e89d42ceab59e54db5a0217f51a426abe789036941cf9244bb7889263214918bd38574abf429c3ce6332e4236592f1ee698a36de779e1877f7e942b137912ced82c0d1b8a8df44a9506a230f2907c8e0aaa5846367998003d13819c43da763fd9953290739de0a08124612c10df97057759f0a681465433b4d0822e12542bc2d6aaa8d21057225ae744e2245c704ec2f2d08380d726daf00377b5892c3d8970d020c179971c6ddb1bdaf64a00bcb9c46f2054994b4d88dadf440eef65a14c7ab284214a80e35838d3a81744d13a9af84d0d655bd83cae68b4b625d1d527d488000d6cc733fe3972c2e22ce924972a6d8b9a6c3c799839c2afde69868e542d309ca012d2f03d2694d05c72d2cb014e365089ac487cfe9f914517713f8c149fb3bdf04bdc6d0c7212c645d1881846087c8c4818ad842ba16d7de287ade0094a6ae29da6b8fe5764d03eec68dbe582f86b090845280bda998fd0b69305ffb42361d89337406c5623c0ab246bdd2b12c64a24cfa4df3fa20430e71dadb958ecca2984ad4d187e7687b6c529fbef4dd2b68384b6cd923ee07fa1680e787eb04d769d90a4bb2290fe1e826e21c2b6465c1cf5258d883922bbb712ae2c40a251c4bf8880372a65c2a8205c79429cf4cd3629c2b6c4763842280c26e0ad120b6ac049f8afcdd2c2ef92d30c1d2a40bf84702f24cdd0c3629d4cdbf68c6d87a82d575b3f1c986d0077412780df60f7b682f30e3b6dfff1292eaf479093374910f86580ceb4ed05b1616bac82c281392bfc58195766b832af13c0179834be0a2116dad15124fb2d100bea60833e00bd5510ff6256af09d0ebe1c7a8699768be2e2727bd0c34d096e0f1777402f8080ce740dbfaa700b5d56802c238cd9554130f111c54cf665cf0b70e0b6dbbd8d1b6bc3e84213c8bc9661d2282e111c996fefc90c240680ee0da9613b818f4991e9275b0a5b6d805083582f83344db960bae6cc109eb41367a03f97ccf644bffed824c2f39da76aabeadbbee419f2900da12ff0151af316ddb1f611b5a6b86dd13a342c9121a7bb5bdd65c166865f521
+c43f4510781db892695b45fc73a9a2418408108a0978a795c220a54a41a00f3884dd0b7f8874959b99b6155c09e2e7833e22bbd7b0411f84d571b159f39d51941d207c2fdc9793e7ebee0d4f611dcfa3a31da8e62fc38e38033b634577e4ac9575b09162d0a7c5d1b6637cf0601c84614adb02dc72b259070202e0c7a1d998a741b654938ba3629c8e16a16da7b3411fc1b11ddea08fd8ac6614bb95e4e4ed177eabac1f6c9d23eb2e039347aaf1b677820f0a88b66d0a007706e19e4740b89e419f0162d0a723a06df7096dbbd1493407c43ccd73d20e58be2cb69f274edeac509703c08ee5da5612ff4267d0a74ef8adb7e1878d3f294efa5647db6e13e5d4eb1fea8cf4eb3052365b3c483500b6043e5cd46b55dc0fda560ffafc97f8ed10039cab58db1f0d83b600bfbef57aa7f47f4a2e56d49d493e42f994989f9e410784b44665027f48ca666877d2ebdc17e0c9455df59e06d0b72fd81b792af06128b8db05812fa1833e004f0cfa9493da72b7f8be153641e1ff679cb556e1603cf166bda9f472d47e6d096d3bea3a5e62a97512c63068cdec7568dbc3de49876d2109b12fbe8f355dcf81ff1f73b3df957b3ef8aa8e7484f390309a53dcdbe689411f16eeeb6dc981ff7f54346d3738378b9b187838a91fb1a58a0630bd3d096f387e9d70d08514833ef984f80f8aec3ed7696aee10da76ada36d77924473061bfbe69bffb221b767e365975fa14856833eb36df82161542b6d4bb2f48094dab697e53cc2951d9080dfbe2dafbb3a93f32b0205769d3be803ae147e252461ec1003492bb04136dcd71b6d7b00c533b2ec1d0010f692c4bbb7974df84db15c89e4735410ff3227d19c4aa16dcb489d77d0342c56768de8c26e3f80c43e81ddaf07904bd950a4b8386a71067d4a52f401d7583fd87a6c56079a19ffe91a10bfab00843d2bb69f61d7ff61895f68db36f011bbefdd2d9a111b1c6dbb1fe0b52119bd036f2444772580b047c5f60c2499df275a6052db92f0eb23b8328bb0ed6d935442db1e47b27b395fefdd06200c3bfd2ac8c1a342dbce23254e851af40197fd8724a88d4818f3f96bb4773180c43e8ac2dbbb785a759d833ebb08e75542dbd6e36fbc096bb87701843d0127ea0419f4a920833e7bf4a00f9d65ce205397e935ddfd0032fb2e34e865d479ec259683f8f7216d9bc7deb204dffd04df75ff00483adeb3c909ea2e2ebddbd0b7ebe568db8328a51e7e5f03087b322ef3ff9d20feed42dbae090cfa6ce7bffe719f02087b0a7e866950ca84d1938c1cef41127a1ffee6fd0f20694a8c162da915ce2c73066a07bf32f40002087b8e77ef82d02c71b4ed7a288be8c1039083b8d268e28c33e8b31ea1fb6ef8e60084bd2831b7b79e695b00771a3231ca0168
+0cbfe5b78e68db7c68de06fc14539403307c81f51733abb21e09e54fc2370720ec7dff2fae31e3822b8047e7004c678fc6f07b065d9723a21d950390d86710b61d76a42c07607a5b80dede75fae700fc127e92e5be01f05a3b74280000000000c8df3a9146023570e0c0810d1c38706003070e1c3870c2c08103073670e0c0810d1c38706003070e1cd8c08103073670e0c0810d1c38706003070e1cd8c08103073670e0c081015a3e42836eb0b9180000000049454e44ae426082
+
+
+        </rawimagedata>
+      </cbdt_bitmap_format_17>
+    </strikedata>
+  </CBDT>
+
+  <CBLC>
+    <header version="2.0"/>
+    <strike index="0">
+      <bitmapSizeTable>
+        <sbitLineMetrics direction="hori">
+          <ascender value="80"/>
+          <descender value="0"/>
+          <widthMax value="80"/>
+          <caretSlopeNumerator value="0"/>
+          <caretSlopeDenominator value="0"/>
+          <caretOffset value="0"/>
+          <minOriginSB value="0"/>
+          <minAdvanceSB value="0"/>
+          <maxBeforeBL value="0"/>
+          <minAfterBL value="0"/>
+          <pad1 value="0"/>
+          <pad2 value="0"/>
+        </sbitLineMetrics>
+        <sbitLineMetrics direction="vert">
+          <ascender value="80"/>
+          <descender value="0"/>
+          <widthMax value="80"/>
+          <caretSlopeNumerator value="0"/>
+          <caretSlopeDenominator value="0"/>
+          <caretOffset value="0"/>
+          <minOriginSB value="0"/>
+          <minAdvanceSB value="0"/>
+          <maxBeforeBL value="0"/>
+          <minAfterBL value="0"/>
+          <pad1 value="0"/>
+          <pad2 value="0"/>
+        </sbitLineMetrics>
+        <colorRef value="0"/>
+        <startGlyphIndex value="1"/>
+        <endGlyphIndex value="3"/>
+        <ppemX value="80"/>
+        <ppemY value="80"/>
+        <bitDepth value="32"/>
+        <flags value="1"/>
+      </bitmapSizeTable>
+      <!-- GlyphIds are written but not read. The firstGlyphIndex and
+           lastGlyphIndex values will be recalculated by the compiler. -->
+      <eblc_index_sub_table_1 imageFormat="17" firstGlyphIndex="1" lastGlyphIndex="2">
+        <glyphLoc id="1" name="glyph00006"/>
+        <glyphLoc id="2" name="glyph00007"/>
+        <glyphLoc id="2" name="glyph00008"/>
+      </eblc_index_sub_table_1>
+    </strike>
+  </CBLC>
+
+  <cvt>
+    <cv index="0" value="1516"/>
+    <cv index="1" value="22"/>
+    <cv index="2" value="0"/>
+    <cv index="3" value="1434"/>
+    <cv index="4" value="24"/>
+    <cv index="5" value="0"/>
+    <cv index="6" value="1434"/>
+    <cv index="7" value="24"/>
+    <cv index="8" value="0"/>
+    <cv index="9" value="0"/>
+    <cv index="10" value="0"/>
+    <cv index="11" value="0"/>
+    <cv index="12" value="0"/>
+    <cv index="13" value="0"/>
+    <cv index="14" value="0"/>
+    <cv index="15" value="1024"/>
+    <cv index="16" value="24"/>
+    <cv index="17" value="0"/>
+    <cv index="18" value="0"/>
+    <cv index="19" value="-24"/>
+    <cv index="20" value="-119"/>
+    <cv index="21" value="0"/>
+    <cv index="22" value="-24"/>
+    <cv index="23" value="-119"/>
+    <cv index="24" value="0"/>
+    <cv index="25" value="-24"/>
+    <cv index="26" value="0"/>
+    <cv index="27" value="-471"/>
+    <cv index="28" value="-11"/>
+    <cv index="29" value="0"/>
+    <cv index="30" value="1434"/>
+    <cv index="31" value="0"/>
+    <cv index="32" value="-326"/>
+    <cv index="33" value="0"/>
+    <cv index="34" value="0"/>
+    <cv index="35" value="0"/>
+    <cv index="36" value="717"/>
+    <cv index="37" value="-19"/>
+    <cv index="38" value="1441"/>
+    <cv index="39" value="13"/>
+    <cv index="40" value="584"/>
+    <cv index="41" value="-21"/>
+    <cv index="42" value="857"/>
+    <cv index="43" value="13"/>
+    <cv index="44" value="0"/>
+    <cv index="45" value="-21"/>
+    <cv index="46" value="0"/>
+    <cv index="47" value="0"/>
+    <cv index="48" value="0"/>
+    <cv index="49" value="0"/>
+    <cv index="50" value="0"/>
+    <cv index="51" value="0"/>
+    <cv index="52" value="0"/>
+    <cv index="53" value="0"/>
+    <cv index="54" value="0"/>
+    <cv index="55" value="0"/>
+    <cv index="56" value="0"/>
+    <cv index="57" value="0"/>
+    <cv index="58" value="0"/>
+    <cv index="59" value="0"/>
+    <cv index="60" value="-338"/>
+    <cv index="61" value="0"/>
+    <cv index="62" value="0"/>
+    <cv index="63" value="0"/>
+    <cv index="64" value="0"/>
+    <cv index="65" value="2048"/>
+    <cv index="66" value="0"/>
+    <cv index="67" value="2048"/>
+    <cv index="68" value="0"/>
+    <cv index="69" value="1024"/>
+    <cv index="70" value="0"/>
+    <cv index="71" value="0"/>
+    <cv index="72" value="138"/>
+    <cv index="73" value="0"/>
+    <cv index="74" value="0"/>
+    <cv index="75" value="0"/>
+    <cv index="76" value="115"/>
+    <cv index="77" value="0"/>
+    <cv index="78" value="0"/>
+    <cv index="79" value="0"/>
+    <cv index="80" value="107"/>
+    <cv index="81" value="0"/>
+    <cv index="82" value="113"/>
+    <cv index="83" value="128"/>
+    <cv index="84" value="98"/>
+    <cv index="85" value="0"/>
+    <cv index="86" value="0"/>
+    <cv index="87" value="0"/>
+    <cv index="88" value="0"/>
+    <cv index="89" value="0"/>
+    <cv index="90" value="0"/>
+    <cv index="91" value="0"/>
+    <cv index="92" value="0"/>
+    <cv index="93" value="0"/>
+    <cv index="94" value="0"/>
+    <cv index="95" value="0"/>
+    <cv index="96" value="0"/>
+    <cv index="97" value="0"/>
+    <cv index="98" value="214"/>
+    <cv index="99" value="214"/>
+    <cv index="100" value="0"/>
+    <cv index="101" value="0"/>
+    <cv index="102" value="0"/>
+    <cv index="103" value="0"/>
+    <cv index="104" value="0"/>
+    <cv index="105" value="0"/>
+    <cv index="106" value="0"/>
+    <cv index="107" value="0"/>
+    <cv index="108" value="0"/>
+    <cv index="109" value="0"/>
+    <cv index="110" value="0"/>
+    <cv index="111" value="0"/>
+    <cv index="112" value="0"/>
+    <cv index="113" value="0"/>
+    <cv index="114" value="0"/>
+    <cv index="115" value="0"/>
+    <cv index="116" value="0"/>
+    <cv index="117" value="0"/>
+    <cv index="118" value="0"/>
+    <cv index="119" value="0"/>
+    <cv index="120" value="0"/>
+    <cv index="121" value="0"/>
+    <cv index="122" value="0"/>
+    <cv index="123" value="0"/>
+    <cv index="124" value="0"/>
+    <cv index="125" value="176"/>
+    <cv index="126" value="168"/>
+    <cv index="127" value="145"/>
+    <cv index="128" value="0"/>
+    <cv index="129" value="0"/>
+    <cv index="130" value="0"/>
+    <cv index="131" value="168"/>
+    <cv index="132" value="164"/>
+    <cv index="133" value="0"/>
+    <cv index="134" value="0"/>
+    <cv index="135" value="0"/>
+    <cv index="136" value="0"/>
+    <cv index="137" value="168"/>
+    <cv index="138" value="164"/>
+    <cv index="139" value="155"/>
+    <cv index="140" value="104"/>
+    <cv index="141" value="0"/>
+    <cv index="142" value="0"/>
+    <cv index="143" value="0"/>
+    <cv index="144" value="0"/>
+    <cv index="145" value="151"/>
+    <cv index="146" value="140"/>
+    <cv index="147" value="0"/>
+    <cv index="148" value="0"/>
+    <cv index="149" value="138"/>
+    <cv index="150" value="131"/>
+    <cv index="151" value="0"/>
+    <cv index="152" value="0"/>
+    <cv index="153" value="148"/>
+    <cv index="154" value="138"/>
+    <cv index="155" value="0"/>
+    <cv index="156" value="0"/>
+    <cv index="157" value="0"/>
+    <cv index="158" value="0"/>
+    <cv index="159" value="0"/>
+    <cv index="160" value="0"/>
+    <cv index="161" value="0"/>
+    <cv index="162" value="0"/>
+    <cv index="163" value="0"/>
+    <cv index="164" value="0"/>
+    <cv index="165" value="0"/>
+    <cv index="166" value="0"/>
+    <cv index="167" value="0"/>
+    <cv index="168" value="0"/>
+    <cv index="169" value="0"/>
+    <cv index="170" value="0"/>
+    <cv index="171" value="0"/>
+    <cv index="172" value="0"/>
+    <cv index="173" value="0"/>
+    <cv index="174" value="0"/>
+    <cv index="175" value="224"/>
+    <cv index="176" value="224"/>
+    <cv index="177" value="160"/>
+    <cv index="178" value="228"/>
+    <cv index="179" value="446"/>
+    <cv index="180" value="258"/>
+    <cv index="181" value="0"/>
+    <cv index="182" value="0"/>
+    <cv index="183" value="0"/>
+    <cv index="184" value="0"/>
+    <cv index="185" value="0"/>
+    <cv index="186" value="0"/>
+    <cv index="187" value="0"/>
+    <cv index="188" value="0"/>
+    <cv index="189" value="134"/>
+    <cv index="190" value="134"/>
+    <cv index="191" value="0"/>
+    <cv index="192" value="197"/>
+    <cv index="193" value="195"/>
+    <cv index="194" value="129"/>
+    <cv index="195" value="74"/>
+    <cv index="196" value="90"/>
+    <cv index="197" value="81"/>
+    <cv index="198" value="1499"/>
+    <cv index="199" value="1499"/>
+    <cv index="200" value="134"/>
+    <cv index="201" value="88"/>
+    <cv index="202" value="144"/>
+    <cv index="203" value="88"/>
+    <cv index="204" value="138"/>
+    <cv index="205" value="128"/>
+    <cv index="206" value="0"/>
+    <cv index="207" value="0"/>
+    <cv index="208" value="0"/>
+    <cv index="209" value="0"/>
+    <cv index="210" value="0"/>
+    <cv index="211" value="207"/>
+    <cv index="212" value="0"/>
+    <cv index="213" value="0"/>
+    <cv index="214" value="214"/>
+    <cv index="215" value="0"/>
+    <cv index="216" value="120"/>
+    <cv index="217" value="119"/>
+    <cv index="218" value="122"/>
+    <cv index="219" value="97"/>
+    <cv index="220" value="122"/>
+    <cv index="221" value="129"/>
+    <cv index="222" value="0"/>
+    <cv index="223" value="0"/>
+    <cv index="224" value="0"/>
+    <cv index="225" value="129"/>
+    <cv index="226" value="107"/>
+    <cv index="227" value="0"/>
+    <cv index="228" value="0"/>
+    <cv index="229" value="0"/>
+    <cv index="230" value="120"/>
+    <cv index="231" value="109"/>
+    <cv index="232" value="0"/>
+    <cv index="233" value="0"/>
+    <cv index="234" value="146"/>
+    <cv index="235" value="129"/>
+    <cv index="236" value="146"/>
+    <cv index="237" value="139"/>
+    <cv index="238" value="160"/>
+    <cv index="239" value="151"/>
+    <cv index="240" value="467"/>
+    <cv index="241" value="76"/>
+    <cv index="242" value="116"/>
+    <cv index="243" value="100"/>
+    <cv index="244" value="168"/>
+  </cvt>
+
+  <loca>
+    <!-- The 'loca' table will be calculated by the compiler -->
+  </loca>
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef"/><!-- contains no outline data -->
+
+    <TTGlyph name="glyph00003" xMin="0" yMin="-431" xMax="1294" yMax="1869">
+      <contour>
+        <pt x="647" y="1869" on="1"/>
+        <pt x="736" y="1869" on="0"/>
+        <pt x="902" y="1823" on="0"/>
+        <pt x="1045" y="1738" on="0"/>
+        <pt x="1163" y="1620" on="0"/>
+        <pt x="1248" y="1477" on="0"/>
+        <pt x="1294" y="1311" on="0"/>
+        <pt x="1294" y="1222" on="1"/>
+        <pt x="1294" y="719" on="1"/>
+        <pt x="1294" y="659" on="0"/>
+        <pt x="1256" y="547" on="0"/>
+        <pt x="1224" y="497" on="1"/>
+        <pt x="1259" y="442" on="0"/>
+        <pt x="1294" y="316" on="0"/>
+        <pt x="1294" y="250" on="1"/>
+        <pt x="1294" y="-431" on="1"/>
+        <pt x="0" y="-431" on="1"/>
+        <pt x="0" y="252" on="1"/>
+        <pt x="0" y="317" on="0"/>
+        <pt x="35" y="442" on="0"/>
+        <pt x="70" y="496" on="1"/>
+        <pt x="38" y="547" on="0"/>
+        <pt x="0" y="659" on="0"/>
+        <pt x="0" y="719" on="1"/>
+        <pt x="0" y="1222" on="1"/>
+        <pt x="0" y="1311" on="0"/>
+        <pt x="46" y="1477" on="0"/>
+        <pt x="131" y="1620" on="0"/>
+        <pt x="249" y="1738" on="0"/>
+        <pt x="392" y="1823" on="0"/>
+        <pt x="558" y="1869" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1150" y="-287" on="1"/>
+        <pt x="1150" y="251" on="1"/>
+        <pt x="1150" y="318" on="0"/>
+        <pt x="1100" y="436" on="0"/>
+        <pt x="1012" y="524" on="0"/>
+        <pt x="894" y="575" on="0"/>
+        <pt x="827" y="575" on="1"/>
+        <pt x="467" y="575" on="1"/>
+        <pt x="400" y="575" on="0"/>
+        <pt x="283" y="524" on="0"/>
+        <pt x="195" y="436" on="0"/>
+        <pt x="144" y="319" on="0"/>
+        <pt x="144" y="252" on="1"/>
+        <pt x="144" y="-287" on="1"/>
+      </contour>
+      <contour>
+        <pt x="216" y="1222" on="1"/>
+        <pt x="216" y="1078" on="1"/>
+        <pt x="216" y="989" on="0"/>
+        <pt x="284" y="832" on="0"/>
+        <pt x="401" y="715" on="0"/>
+        <pt x="558" y="647" on="0"/>
+        <pt x="647" y="647" on="1"/>
+        <pt x="736" y="647" on="0"/>
+        <pt x="893" y="715" on="0"/>
+        <pt x="1010" y="832" on="0"/>
+        <pt x="1078" y="989" on="0"/>
+        <pt x="1078" y="1078" on="1"/>
+        <pt x="1078" y="1222" on="1"/>
+        <pt x="1078" y="1258" on="0"/>
+        <pt x="1072" y="1294" on="1"/>
+        <pt x="982" y="1296" on="0"/>
+        <pt x="822" y="1375" on="0"/>
+        <pt x="762" y="1441" on="1"/>
+        <pt x="724" y="1406" on="0"/>
+        <pt x="627" y="1366" on="0"/>
+        <pt x="575" y="1366" on="1"/>
+        <pt x="575" y="1497" on="1"/>
+        <pt x="546" y="1452" on="0"/>
+        <pt x="469" y="1378" on="0"/>
+        <pt x="378" y="1325" on="0"/>
+        <pt x="276" y="1295" on="0"/>
+        <pt x="222" y="1294" on="1"/>
+        <pt x="216" y="1258" on="0"/>
+      </contour>
+      <contour>
+        <pt x="431" y="1294" on="1"/>
+        <pt x="461" y="1294" on="0"/>
+        <pt x="503" y="1252" on="0"/>
+        <pt x="503" y="1222" on="1"/>
+        <pt x="503" y="1150" on="1"/>
+        <pt x="503" y="1120" on="0"/>
+        <pt x="461" y="1078" on="0"/>
+        <pt x="431" y="1078" on="1"/>
+        <pt x="401" y="1078" on="0"/>
+        <pt x="359" y="1120" on="0"/>
+        <pt x="359" y="1150" on="1"/>
+        <pt x="359" y="1222" on="1"/>
+        <pt x="359" y="1252" on="0"/>
+        <pt x="401" y="1294" on="0"/>
+      </contour>
+      <contour>
+        <pt x="934" y="1150" on="1"/>
+        <pt x="934" y="1120" on="0"/>
+        <pt x="892" y="1078" on="0"/>
+        <pt x="862" y="1078" on="1"/>
+        <pt x="833" y="1078" on="0"/>
+        <pt x="791" y="1121" on="0"/>
+        <pt x="791" y="1150" on="1"/>
+        <pt x="791" y="1222" on="1"/>
+        <pt x="791" y="1251" on="0"/>
+        <pt x="833" y="1294" on="0"/>
+        <pt x="862" y="1294" on="1"/>
+        <pt x="892" y="1294" on="0"/>
+        <pt x="934" y="1252" on="0"/>
+        <pt x="934" y="1222" on="1"/>
+      </contour>
+      <contour>
+        <pt x="644" y="791" on="1"/>
+        <pt x="630" y="791" on="0"/>
+        <pt x="582" y="802" on="0"/>
+        <pt x="536" y="822" on="0"/>
+        <pt x="503" y="851" on="0"/>
+        <pt x="503" y="869" on="1"/>
+        <pt x="503" y="883" on="0"/>
+        <pt x="523" y="903" on="0"/>
+        <pt x="537" y="903" on="1"/>
+        <pt x="545" y="903" on="0"/>
+        <pt x="566" y="889" on="0"/>
+        <pt x="591" y="873" on="0"/>
+        <pt x="624" y="859" on="0"/>
+        <pt x="644" y="859" on="1"/>
+        <pt x="664" y="859" on="0"/>
+        <pt x="697" y="873" on="0"/>
+        <pt x="722" y="889" on="0"/>
+        <pt x="743" y="903" on="0"/>
+        <pt x="751" y="903" on="1"/>
+        <pt x="765" y="903" on="0"/>
+        <pt x="785" y="883" on="0"/>
+        <pt x="785" y="869" on="1"/>
+        <pt x="785" y="851" on="0"/>
+        <pt x="752" y="822" on="0"/>
+        <pt x="706" y="802" on="0"/>
+        <pt x="658" y="791" on="0"/>
+      </contour>
+      <contour>
+        <pt x="647" y="1006" on="1"/>
+        <pt x="618" y="1006" on="0"/>
+        <pt x="575" y="1049" on="0"/>
+        <pt x="575" y="1078" on="1"/>
+        <pt x="719" y="1078" on="1"/>
+        <pt x="719" y="1049" on="0"/>
+        <pt x="676" y="1006" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="glyph00004" xMin="0" yMin="-431" xMax="1294" yMax="1869">
+      <contour>
+        <pt x="647" y="1869" on="1"/>
+        <pt x="736" y="1869" on="0"/>
+        <pt x="902" y="1823" on="0"/>
+        <pt x="1045" y="1738" on="0"/>
+        <pt x="1163" y="1620" on="0"/>
+        <pt x="1248" y="1477" on="0"/>
+        <pt x="1294" y="1311" on="0"/>
+        <pt x="1294" y="1222" on="1"/>
+        <pt x="1294" y="719" on="1"/>
+        <pt x="1294" y="659" on="0"/>
+        <pt x="1256" y="547" on="0"/>
+        <pt x="1224" y="497" on="1"/>
+        <pt x="1259" y="442" on="0"/>
+        <pt x="1294" y="316" on="0"/>
+        <pt x="1294" y="250" on="1"/>
+        <pt x="1294" y="-431" on="1"/>
+        <pt x="0" y="-431" on="1"/>
+        <pt x="0" y="252" on="1"/>
+        <pt x="0" y="317" on="0"/>
+        <pt x="35" y="442" on="0"/>
+        <pt x="70" y="496" on="1"/>
+        <pt x="38" y="547" on="0"/>
+        <pt x="0" y="659" on="0"/>
+        <pt x="0" y="719" on="1"/>
+        <pt x="0" y="1222" on="1"/>
+        <pt x="0" y="1311" on="0"/>
+        <pt x="46" y="1477" on="0"/>
+        <pt x="131" y="1620" on="0"/>
+        <pt x="249" y="1738" on="0"/>
+        <pt x="392" y="1823" on="0"/>
+        <pt x="558" y="1869" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1150" y="-287" on="1"/>
+        <pt x="1150" y="251" on="1"/>
+        <pt x="1150" y="318" on="0"/>
+        <pt x="1100" y="436" on="0"/>
+        <pt x="1013" y="524" on="0"/>
+        <pt x="895" y="575" on="0"/>
+        <pt x="828" y="575" on="1"/>
+        <pt x="467" y="575" on="1"/>
+        <pt x="400" y="575" on="0"/>
+        <pt x="283" y="524" on="0"/>
+        <pt x="195" y="436" on="0"/>
+        <pt x="144" y="319" on="0"/>
+        <pt x="144" y="252" on="1"/>
+        <pt x="144" y="-287" on="1"/>
+      </contour>
+      <contour>
+        <pt x="216" y="1222" on="1"/>
+        <pt x="216" y="1078" on="1"/>
+        <pt x="216" y="989" on="0"/>
+        <pt x="284" y="832" on="0"/>
+        <pt x="401" y="715" on="0"/>
+        <pt x="558" y="647" on="0"/>
+        <pt x="647" y="647" on="1"/>
+        <pt x="736" y="647" on="0"/>
+        <pt x="893" y="715" on="0"/>
+        <pt x="1010" y="832" on="0"/>
+        <pt x="1078" y="989" on="0"/>
+        <pt x="1078" y="1078" on="1"/>
+        <pt x="1078" y="1222" on="1"/>
+        <pt x="1078" y="1258" on="0"/>
+        <pt x="1072" y="1294" on="1"/>
+        <pt x="982" y="1296" on="0"/>
+        <pt x="822" y="1375" on="0"/>
+        <pt x="762" y="1441" on="1"/>
+        <pt x="724" y="1406" on="0"/>
+        <pt x="627" y="1366" on="0"/>
+        <pt x="575" y="1366" on="1"/>
+        <pt x="575" y="1497" on="1"/>
+        <pt x="546" y="1452" on="0"/>
+        <pt x="469" y="1378" on="0"/>
+        <pt x="378" y="1325" on="0"/>
+        <pt x="276" y="1295" on="0"/>
+        <pt x="222" y="1294" on="1"/>
+        <pt x="216" y="1258" on="0"/>
+      </contour>
+      <contour>
+        <pt x="431" y="1294" on="1"/>
+        <pt x="461" y="1294" on="0"/>
+        <pt x="503" y="1252" on="0"/>
+        <pt x="503" y="1222" on="1"/>
+        <pt x="503" y="1150" on="1"/>
+        <pt x="503" y="1120" on="0"/>
+        <pt x="461" y="1078" on="0"/>
+        <pt x="431" y="1078" on="1"/>
+        <pt x="401" y="1078" on="0"/>
+        <pt x="359" y="1120" on="0"/>
+        <pt x="359" y="1150" on="1"/>
+        <pt x="359" y="1222" on="1"/>
+        <pt x="359" y="1252" on="0"/>
+        <pt x="401" y="1294" on="0"/>
+      </contour>
+      <contour>
+        <pt x="934" y="1150" on="1"/>
+        <pt x="934" y="1120" on="0"/>
+        <pt x="892" y="1078" on="0"/>
+        <pt x="862" y="1078" on="1"/>
+        <pt x="833" y="1078" on="0"/>
+        <pt x="791" y="1121" on="0"/>
+        <pt x="791" y="1150" on="1"/>
+        <pt x="791" y="1222" on="1"/>
+        <pt x="791" y="1251" on="0"/>
+        <pt x="833" y="1294" on="0"/>
+        <pt x="862" y="1294" on="1"/>
+        <pt x="892" y="1294" on="0"/>
+        <pt x="934" y="1252" on="0"/>
+        <pt x="934" y="1222" on="1"/>
+      </contour>
+      <contour>
+        <pt x="644" y="791" on="1"/>
+        <pt x="630" y="791" on="0"/>
+        <pt x="582" y="802" on="0"/>
+        <pt x="536" y="822" on="0"/>
+        <pt x="503" y="851" on="0"/>
+        <pt x="503" y="869" on="1"/>
+        <pt x="503" y="883" on="0"/>
+        <pt x="523" y="903" on="0"/>
+        <pt x="537" y="903" on="1"/>
+        <pt x="545" y="903" on="0"/>
+        <pt x="566" y="889" on="0"/>
+        <pt x="591" y="873" on="0"/>
+        <pt x="624" y="859" on="0"/>
+        <pt x="644" y="859" on="1"/>
+        <pt x="664" y="859" on="0"/>
+        <pt x="697" y="873" on="0"/>
+        <pt x="722" y="889" on="0"/>
+        <pt x="743" y="903" on="0"/>
+        <pt x="751" y="903" on="1"/>
+        <pt x="765" y="903" on="0"/>
+        <pt x="785" y="883" on="0"/>
+        <pt x="785" y="869" on="1"/>
+        <pt x="785" y="851" on="0"/>
+        <pt x="752" y="822" on="0"/>
+        <pt x="706" y="802" on="0"/>
+        <pt x="658" y="791" on="0"/>
+      </contour>
+      <contour>
+        <pt x="647" y="1006" on="1"/>
+        <pt x="618" y="1006" on="0"/>
+        <pt x="575" y="1049" on="0"/>
+        <pt x="575" y="1078" on="1"/>
+        <pt x="719" y="1078" on="1"/>
+        <pt x="719" y="1049" on="0"/>
+        <pt x="676" y="1006" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="glyph00006" xMin="0" yMin="-431" xMax="1294" yMax="1006">
+      <contour>
+        <pt x="647" y="1006" on="1"/>
+        <pt x="736" y="1006" on="0"/>
+        <pt x="901" y="960" on="0"/>
+        <pt x="1045" y="876" on="0"/>
+        <pt x="1163" y="757" on="0"/>
+        <pt x="1248" y="614" on="0"/>
+        <pt x="1294" y="449" on="0"/>
+        <pt x="1294" y="360" on="1"/>
+        <pt x="1294" y="-431" on="1"/>
+        <pt x="0" y="-431" on="1"/>
+        <pt x="0" y="360" on="1"/>
+        <pt x="0" y="449" on="0"/>
+        <pt x="46" y="614" on="0"/>
+        <pt x="131" y="757" on="0"/>
+        <pt x="249" y="876" on="0"/>
+        <pt x="393" y="960" on="0"/>
+        <pt x="558" y="1006" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1078" y="431" on="1"/>
+        <pt x="1024" y="431" on="0"/>
+        <pt x="914" y="459" on="0"/>
+        <pt x="817" y="514" on="0"/>
+        <pt x="740" y="594" on="0"/>
+        <pt x="719" y="647" on="1"/>
+        <pt x="719" y="503" on="1"/>
+        <pt x="678" y="503" on="0"/>
+        <pt x="595" y="521" on="0"/>
+        <pt x="518" y="557" on="0"/>
+        <pt x="453" y="611" on="0"/>
+        <pt x="431" y="647" on="1"/>
+        <pt x="419" y="608" on="0"/>
+        <pt x="384" y="532" on="0"/>
+        <pt x="332" y="470" on="0"/>
+        <pt x="262" y="432" on="0"/>
+        <pt x="216" y="432" on="1"/>
+        <pt x="216" y="217" on="1"/>
+        <pt x="216" y="127" on="0"/>
+        <pt x="283" y="-30" on="0"/>
+        <pt x="400" y="-147" on="0"/>
+        <pt x="557" y="-215" on="0"/>
+        <pt x="647" y="-215" on="1"/>
+        <pt x="737" y="-215" on="0"/>
+        <pt x="894" y="-147" on="0"/>
+        <pt x="1011" y="-30" on="0"/>
+        <pt x="1078" y="127" on="0"/>
+        <pt x="1078" y="217" on="1"/>
+      </contour>
+      <contour>
+        <pt x="431" y="431" on="1"/>
+        <pt x="460" y="431" on="0"/>
+        <pt x="503" y="389" on="0"/>
+        <pt x="503" y="360" on="1"/>
+        <pt x="503" y="288" on="1"/>
+        <pt x="503" y="258" on="0"/>
+        <pt x="461" y="216" on="0"/>
+        <pt x="431" y="216" on="1"/>
+        <pt x="402" y="216" on="0"/>
+        <pt x="359" y="259" on="0"/>
+        <pt x="359" y="288" on="1"/>
+        <pt x="359" y="360" on="1"/>
+        <pt x="359" y="389" on="0"/>
+        <pt x="402" y="431" on="0"/>
+      </contour>
+      <contour>
+        <pt x="862" y="216" on="1"/>
+        <pt x="833" y="216" on="0"/>
+        <pt x="791" y="259" on="0"/>
+        <pt x="791" y="288" on="1"/>
+        <pt x="791" y="360" on="1"/>
+        <pt x="791" y="389" on="0"/>
+        <pt x="833" y="431" on="0"/>
+        <pt x="862" y="431" on="1"/>
+        <pt x="891" y="431" on="0"/>
+        <pt x="934" y="389" on="0"/>
+        <pt x="934" y="360" on="1"/>
+        <pt x="934" y="288" on="1"/>
+        <pt x="934" y="258" on="0"/>
+        <pt x="892" y="216" on="0"/>
+      </contour>
+      <contour>
+        <pt x="650" y="-3" on="1"/>
+        <pt x="671" y="-3" on="0"/>
+        <pt x="703" y="10" on="0"/>
+        <pt x="729" y="27" on="0"/>
+        <pt x="749" y="40" on="0"/>
+        <pt x="757" y="40" on="1"/>
+        <pt x="771" y="40" on="0"/>
+        <pt x="791" y="20" on="0"/>
+        <pt x="791" y="6" on="1"/>
+        <pt x="791" y="-12" on="0"/>
+        <pt x="758" y="-40" on="0"/>
+        <pt x="712" y="-61" on="0"/>
+        <pt x="664" y="-72" on="0"/>
+        <pt x="650" y="-72" on="1"/>
+        <pt x="636" y="-72" on="0"/>
+        <pt x="588" y="-61" on="0"/>
+        <pt x="542" y="-40" on="0"/>
+        <pt x="509" y="-12" on="0"/>
+        <pt x="509" y="6" on="1"/>
+        <pt x="509" y="20" on="0"/>
+        <pt x="528" y="40" on="0"/>
+        <pt x="542" y="40" on="1"/>
+        <pt x="549" y="40" on="0"/>
+        <pt x="570" y="27" on="0"/>
+        <pt x="597" y="10" on="0"/>
+        <pt x="630" y="-3" on="0"/>
+      </contour>
+      <contour>
+        <pt x="647" y="144" on="1"/>
+        <pt x="617" y="144" on="0"/>
+        <pt x="575" y="186" on="0"/>
+        <pt x="575" y="216" on="1"/>
+        <pt x="719" y="216" on="1"/>
+        <pt x="719" y="186" on="0"/>
+        <pt x="677" y="144" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="glyph00007" xMin="-72" yMin="-431" xMax="1222" yMax="1006">
+      <contour>
+        <pt x="575" y="1006" on="1"/>
+        <pt x="664" y="1006" on="0"/>
+        <pt x="829" y="960" on="0"/>
+        <pt x="973" y="876" on="0"/>
+        <pt x="1091" y="757" on="0"/>
+        <pt x="1176" y="614" on="0"/>
+        <pt x="1222" y="449" on="0"/>
+        <pt x="1222" y="360" on="1"/>
+        <pt x="1222" y="-431" on="1"/>
+        <pt x="-72" y="-431" on="1"/>
+        <pt x="-72" y="360" on="1"/>
+        <pt x="-72" y="449" on="0"/>
+        <pt x="-26" y="614" on="0"/>
+        <pt x="59" y="757" on="0"/>
+        <pt x="177" y="876" on="0"/>
+        <pt x="321" y="960" on="0"/>
+        <pt x="486" y="1006" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1006" y="432" on="1"/>
+        <pt x="960" y="432" on="0"/>
+        <pt x="890" y="470" on="0"/>
+        <pt x="838" y="532" on="0"/>
+        <pt x="803" y="608" on="0"/>
+        <pt x="791" y="647" on="1"/>
+        <pt x="768" y="612" on="0"/>
+        <pt x="703" y="558" on="0"/>
+        <pt x="627" y="522" on="0"/>
+        <pt x="544" y="503" on="0"/>
+        <pt x="503" y="503" on="1"/>
+        <pt x="503" y="647" on="1"/>
+        <pt x="482" y="594" on="0"/>
+        <pt x="405" y="514" on="0"/>
+        <pt x="308" y="459" on="0"/>
+        <pt x="198" y="431" on="0"/>
+        <pt x="144" y="431" on="1"/>
+        <pt x="144" y="217" on="1"/>
+        <pt x="144" y="127" on="0"/>
+        <pt x="211" y="-30" on="0"/>
+        <pt x="328" y="-147" on="0"/>
+        <pt x="485" y="-215" on="0"/>
+        <pt x="575" y="-215" on="1"/>
+        <pt x="665" y="-215" on="0"/>
+        <pt x="822" y="-147" on="0"/>
+        <pt x="939" y="-30" on="0"/>
+        <pt x="1006" y="127" on="0"/>
+        <pt x="1006" y="217" on="1"/>
+      </contour>
+      <contour>
+        <pt x="359" y="431" on="1"/>
+        <pt x="388" y="431" on="0"/>
+        <pt x="431" y="389" on="0"/>
+        <pt x="431" y="360" on="1"/>
+        <pt x="431" y="288" on="1"/>
+        <pt x="431" y="258" on="0"/>
+        <pt x="389" y="216" on="0"/>
+        <pt x="359" y="216" on="1"/>
+        <pt x="330" y="216" on="0"/>
+        <pt x="287" y="259" on="0"/>
+        <pt x="287" y="288" on="1"/>
+        <pt x="287" y="360" on="1"/>
+        <pt x="287" y="389" on="0"/>
+        <pt x="330" y="431" on="0"/>
+      </contour>
+      <contour>
+        <pt x="791" y="431" on="1"/>
+        <pt x="820" y="431" on="0"/>
+        <pt x="862" y="389" on="0"/>
+        <pt x="862" y="360" on="1"/>
+        <pt x="862" y="288" on="1"/>
+        <pt x="862" y="259" on="0"/>
+        <pt x="820" y="216" on="0"/>
+        <pt x="791" y="216" on="1"/>
+        <pt x="761" y="216" on="0"/>
+        <pt x="719" y="258" on="0"/>
+        <pt x="719" y="288" on="1"/>
+        <pt x="719" y="360" on="1"/>
+        <pt x="719" y="389" on="0"/>
+        <pt x="762" y="431" on="0"/>
+      </contour>
+      <contour>
+        <pt x="578" y="-3" on="1"/>
+        <pt x="599" y="-3" on="0"/>
+        <pt x="631" y="10" on="0"/>
+        <pt x="657" y="27" on="0"/>
+        <pt x="677" y="40" on="0"/>
+        <pt x="685" y="40" on="1"/>
+        <pt x="699" y="40" on="0"/>
+        <pt x="719" y="20" on="0"/>
+        <pt x="719" y="6" on="1"/>
+        <pt x="719" y="-12" on="0"/>
+        <pt x="686" y="-40" on="0"/>
+        <pt x="640" y="-61" on="0"/>
+        <pt x="592" y="-72" on="0"/>
+        <pt x="578" y="-72" on="1"/>
+        <pt x="564" y="-72" on="0"/>
+        <pt x="516" y="-61" on="0"/>
+        <pt x="470" y="-40" on="0"/>
+        <pt x="437" y="-12" on="0"/>
+        <pt x="437" y="6" on="1"/>
+        <pt x="437" y="20" on="0"/>
+        <pt x="456" y="40" on="0"/>
+        <pt x="470" y="40" on="1"/>
+        <pt x="477" y="40" on="0"/>
+        <pt x="498" y="27" on="0"/>
+        <pt x="525" y="10" on="0"/>
+        <pt x="558" y="-3" on="0"/>
+      </contour>
+      <contour>
+        <pt x="575" y="144" on="1"/>
+        <pt x="545" y="144" on="0"/>
+        <pt x="503" y="186" on="0"/>
+        <pt x="503" y="216" on="1"/>
+        <pt x="647" y="216" on="1"/>
+        <pt x="647" y="186" on="0"/>
+        <pt x="605" y="144" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="glyph00008" xMin="-683" yMin="517" xMax="683" yMax="1797">
+      <contour>
+        <pt x="249" y="1797" on="1"/>
+        <pt x="338" y="1797" on="0"/>
+        <pt x="496" y="1730" on="0"/>
+        <pt x="614" y="1614" on="0"/>
+        <pt x="683" y="1458" on="0"/>
+        <pt x="683" y="1368" on="1"/>
+        <pt x="683" y="1280" on="0"/>
+        <pt x="618" y="1126" on="0"/>
+        <pt x="555" y="1064" on="1"/>
+        <pt x="0" y="517" on="1"/>
+        <pt x="-7" y="524" on="1"/>
+        <pt x="-20" y="605" on="0"/>
+        <pt x="-95" y="748" on="0"/>
+        <pt x="-208" y="858" on="0"/>
+        <pt x="-352" y="931" on="0"/>
+        <pt x="-433" y="943" on="1"/>
+        <pt x="-457" y="966" on="1"/>
+        <pt x="-503" y="1009" on="0"/>
+        <pt x="-585" y="1093" on="0"/>
+        <pt x="-647" y="1187" on="0"/>
+        <pt x="-683" y="1297" on="0"/>
+        <pt x="-683" y="1368" on="1"/>
+        <pt x="-683" y="1458" on="0"/>
+        <pt x="-614" y="1614" on="0"/>
+        <pt x="-496" y="1730" on="0"/>
+        <pt x="-338" y="1797" on="0"/>
+        <pt x="-249" y="1797" on="1"/>
+        <pt x="-183" y="1797" on="0"/>
+        <pt x="-55" y="1758" on="0"/>
+        <pt x="0" y="1720" on="1"/>
+        <pt x="55" y="1758" on="0"/>
+        <pt x="183" y="1797" on="0"/>
+      </contour>
+      <contour>
+        <pt x="539" y="1368" on="1"/>
+        <pt x="539" y="1428" on="0"/>
+        <pt x="493" y="1532" on="0"/>
+        <pt x="414" y="1609" on="0"/>
+        <pt x="308" y="1653" on="0"/>
+        <pt x="249" y="1653" on="1"/>
+        <pt x="207" y="1653" on="0"/>
+        <pt x="140" y="1634" on="0"/>
+        <pt x="82" y="1601" on="0"/>
+        <pt x="29" y="1555" on="0"/>
+        <pt x="0" y="1527" on="1"/>
+        <pt x="-29" y="1555" on="0"/>
+        <pt x="-82" y="1601" on="0"/>
+        <pt x="-140" y="1634" on="0"/>
+        <pt x="-207" y="1653" on="0"/>
+        <pt x="-249" y="1653" on="1"/>
+        <pt x="-308" y="1653" on="0"/>
+        <pt x="-414" y="1609" on="0"/>
+        <pt x="-493" y="1532" on="0"/>
+        <pt x="-539" y="1428" on="0"/>
+        <pt x="-539" y="1368" on="1"/>
+        <pt x="-539" y="1310" on="0"/>
+        <pt x="-496" y="1207" on="0"/>
+        <pt x="-454" y="1166" on="1"/>
+        <pt x="0" y="719" on="1"/>
+        <pt x="454" y="1166" on="1"/>
+        <pt x="496" y="1207" on="0"/>
+        <pt x="539" y="1310" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="u1F469" xMin="256" yMin="-431" xMax="2556" yMax="1869">
+      <contour>
+        <pt x="1406" y="1869" on="1"/>
+        <pt x="1564" y="1869" on="0"/>
+        <pt x="1858" y="1787" on="0"/>
+        <pt x="2114" y="1637" on="0"/>
+        <pt x="2324" y="1427" on="0"/>
+        <pt x="2474" y="1171" on="0"/>
+        <pt x="2556" y="877" on="0"/>
+        <pt x="2556" y="719" on="1"/>
+        <pt x="2556" y="-431" on="1"/>
+        <pt x="2161" y="-431" on="1"/>
+        <pt x="2080" y="-431" on="0"/>
+        <pt x="1929" y="-366" on="0"/>
+        <pt x="1873" y="-306" on="1"/>
+        <pt x="1766" y="-366" on="0"/>
+        <pt x="1529" y="-431" on="0"/>
+        <pt x="1406" y="-431" on="1"/>
+        <pt x="1283" y="-431" on="0"/>
+        <pt x="1046" y="-366" on="0"/>
+        <pt x="939" y="-306" on="1"/>
+        <pt x="883" y="-366" on="0"/>
+        <pt x="732" y="-431" on="0"/>
+        <pt x="651" y="-431" on="1"/>
+        <pt x="256" y="-431" on="1"/>
+        <pt x="256" y="719" on="1"/>
+        <pt x="256" y="877" on="0"/>
+        <pt x="338" y="1171" on="0"/>
+        <pt x="488" y="1427" on="0"/>
+        <pt x="698" y="1637" on="0"/>
+        <pt x="954" y="1787" on="0"/>
+        <pt x="1247" y="1869" on="0"/>
+      </contour>
+      <contour>
+        <pt x="2197" y="935" on="1"/>
+        <pt x="2106" y="935" on="0"/>
+        <pt x="1935" y="984" on="0"/>
+        <pt x="1786" y="1075" on="0"/>
+        <pt x="1664" y="1205" on="0"/>
+        <pt x="1622" y="1286" on="1"/>
+        <pt x="1622" y="1007" on="1"/>
+        <pt x="1546" y="1007" on="0"/>
+        <pt x="1403" y="1051" on="0"/>
+        <pt x="1281" y="1132" on="0"/>
+        <pt x="1186" y="1246" on="0"/>
+        <pt x="1157" y="1317" on="1"/>
+        <pt x="1127" y="1231" on="0"/>
+        <pt x="1018" y="1090" on="0"/>
+        <pt x="875" y="990" on="0"/>
+        <pt x="706" y="935" on="0"/>
+        <pt x="615" y="935" on="1"/>
+        <pt x="615" y="503" on="1"/>
+        <pt x="615" y="394" on="0"/>
+        <pt x="672" y="192" on="0"/>
+        <pt x="775" y="17" on="0"/>
+        <pt x="919" y="-128" on="0"/>
+        <pt x="1095" y="-231" on="0"/>
+        <pt x="1297" y="-287" on="0"/>
+        <pt x="1406" y="-287" on="1"/>
+        <pt x="1515" y="-287" on="0"/>
+        <pt x="1717" y="-231" on="0"/>
+        <pt x="1893" y="-128" on="0"/>
+        <pt x="2037" y="17" on="0"/>
+        <pt x="2140" y="192" on="0"/>
+        <pt x="2197" y="394" on="0"/>
+        <pt x="2197" y="503" on="1"/>
+      </contour>
+      <contour>
+        <pt x="1406" y="144" on="1"/>
+        <pt x="1443" y="144" on="0"/>
+        <pt x="1509" y="166" on="0"/>
+        <pt x="1564" y="193" on="0"/>
+        <pt x="1607" y="216" on="0"/>
+        <pt x="1622" y="216" on="1"/>
+        <pt x="1651" y="216" on="0"/>
+        <pt x="1694" y="173" on="0"/>
+        <pt x="1694" y="144" on="1"/>
+        <pt x="1694" y="120" on="0"/>
+        <pt x="1662" y="80" on="0"/>
+        <pt x="1610" y="48" on="0"/>
+        <pt x="1546" y="24" on="0"/>
+        <pt x="1482" y="8" on="0"/>
+        <pt x="1425" y="0" on="0"/>
+        <pt x="1406" y="0" on="1"/>
+        <pt x="1387" y="0" on="0"/>
+        <pt x="1330" y="8" on="0"/>
+        <pt x="1266" y="24" on="0"/>
+        <pt x="1202" y="48" on="0"/>
+        <pt x="1150" y="80" on="0"/>
+        <pt x="1118" y="120" on="0"/>
+        <pt x="1118" y="144" on="1"/>
+        <pt x="1118" y="173" on="0"/>
+        <pt x="1161" y="216" on="0"/>
+        <pt x="1190" y="216" on="1"/>
+        <pt x="1205" y="216" on="0"/>
+        <pt x="1248" y="193" on="0"/>
+        <pt x="1303" y="166" on="0"/>
+        <pt x="1368" y="144" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1694" y="827" on="1"/>
+        <pt x="1694" y="849" on="0"/>
+        <pt x="1711" y="888" on="0"/>
+        <pt x="1740" y="917" on="0"/>
+        <pt x="1779" y="934" on="0"/>
+        <pt x="1801" y="934" on="1"/>
+        <pt x="1823" y="934" on="0"/>
+        <pt x="1862" y="917" on="0"/>
+        <pt x="1892" y="889" on="0"/>
+        <pt x="1909" y="849" on="0"/>
+        <pt x="1909" y="827" on="1"/>
+        <pt x="1909" y="683" on="1"/>
+        <pt x="1909" y="660" on="0"/>
+        <pt x="1892" y="621" on="0"/>
+        <pt x="1863" y="592" on="0"/>
+        <pt x="1823" y="575" on="0"/>
+        <pt x="1801" y="575" on="1"/>
+        <pt x="1778" y="575" on="0"/>
+        <pt x="1739" y="592" on="0"/>
+        <pt x="1711" y="622" on="0"/>
+        <pt x="1694" y="661" on="0"/>
+        <pt x="1694" y="683" on="1"/>
+      </contour>
+      <contour>
+        <pt x="1011" y="934" on="1"/>
+        <pt x="1033" y="934" on="0"/>
+        <pt x="1072" y="917" on="0"/>
+        <pt x="1101" y="888" on="0"/>
+        <pt x="1118" y="849" on="0"/>
+        <pt x="1118" y="827" on="1"/>
+        <pt x="1118" y="683" on="1"/>
+        <pt x="1118" y="661" on="0"/>
+        <pt x="1101" y="622" on="0"/>
+        <pt x="1073" y="592" on="0"/>
+        <pt x="1033" y="575" on="0"/>
+        <pt x="1011" y="575" on="1"/>
+        <pt x="988" y="575" on="0"/>
+        <pt x="949" y="592" on="0"/>
+        <pt x="920" y="621" on="0"/>
+        <pt x="903" y="660" on="0"/>
+        <pt x="903" y="683" on="1"/>
+        <pt x="903" y="827" on="1"/>
+        <pt x="903" y="849" on="0"/>
+        <pt x="920" y="889" on="0"/>
+        <pt x="950" y="917" on="0"/>
+        <pt x="989" y="934" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1406" y="360" on="1"/>
+        <pt x="1376" y="360" on="0"/>
+        <pt x="1324" y="382" on="0"/>
+        <pt x="1285" y="421" on="0"/>
+        <pt x="1262" y="473" on="0"/>
+        <pt x="1262" y="503" on="1"/>
+        <pt x="1550" y="503" on="1"/>
+        <pt x="1550" y="473" on="0"/>
+        <pt x="1527" y="421" on="0"/>
+        <pt x="1488" y="382" on="0"/>
+        <pt x="1436" y="360" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uni200D" xMin="-219" yMin="-408" xMax="219" yMax="1750">
+      <contour>
+        <pt x="36" y="-408" on="1"/>
+        <pt x="-36" y="-408" on="1"/>
+        <pt x="-36" y="1451" on="1"/>
+        <pt x="-170" y="1315" on="1"/>
+        <pt x="-219" y="1364" on="1"/>
+        <pt x="-48" y="1533" on="1"/>
+        <pt x="-219" y="1701" on="1"/>
+        <pt x="-170" y="1750" on="1"/>
+        <pt x="0" y="1579" on="1"/>
+        <pt x="170" y="1750" on="1"/>
+        <pt x="219" y="1701" on="1"/>
+        <pt x="48" y="1533" on="1"/>
+        <pt x="219" y="1364" on="1"/>
+        <pt x="170" y="1315" on="1"/>
+        <pt x="36" y="1451" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uni2764" xMin="256" yMin="-347" xMax="2556" yMax="1725">
+      <contour>
+        <pt x="1904" y="1725" on="1"/>
+        <pt x="1994" y="1725" on="0"/>
+        <pt x="2160" y="1678" on="0"/>
+        <pt x="2305" y="1593" on="0"/>
+        <pt x="2424" y="1474" on="0"/>
+        <pt x="2509" y="1329" on="0"/>
+        <pt x="2556" y="1163" on="0"/>
+        <pt x="2556" y="1073" on="1"/>
+        <pt x="2556" y="940" on="0"/>
+        <pt x="2459" y="706" on="0"/>
+        <pt x="2365" y="612" on="1"/>
+        <pt x="1406" y="-347" on="1"/>
+        <pt x="447" y="612" on="1"/>
+        <pt x="353" y="706" on="0"/>
+        <pt x="256" y="940" on="0"/>
+        <pt x="256" y="1073" on="1"/>
+        <pt x="256" y="1163" on="0"/>
+        <pt x="303" y="1330" on="0"/>
+        <pt x="387" y="1474" on="0"/>
+        <pt x="507" y="1594" on="0"/>
+        <pt x="651" y="1678" on="0"/>
+        <pt x="818" y="1725" on="0"/>
+        <pt x="908" y="1725" on="1"/>
+        <pt x="985" y="1725" on="0"/>
+        <pt x="1121" y="1694" on="0"/>
+        <pt x="1242" y="1636" on="0"/>
+        <pt x="1353" y="1551" on="0"/>
+        <pt x="1406" y="1497" on="1"/>
+        <pt x="1459" y="1551" on="0"/>
+        <pt x="1570" y="1636" on="0"/>
+        <pt x="1691" y="1695" on="0"/>
+        <pt x="1827" y="1725" on="0"/>
+      </contour>
+      <contour>
+        <pt x="1406" y="-144" on="1"/>
+        <pt x="2263" y="714" on="1"/>
+        <pt x="2335" y="786" on="0"/>
+        <pt x="2412" y="971" on="0"/>
+        <pt x="2412" y="1073" on="1"/>
+        <pt x="2412" y="1178" on="0"/>
+        <pt x="2332" y="1363" on="0"/>
+        <pt x="2194" y="1501" on="0"/>
+        <pt x="2009" y="1581" on="0"/>
+        <pt x="1904" y="1581" on="1"/>
+        <pt x="1822" y="1581" on="0"/>
+        <pt x="1694" y="1541" on="0"/>
+        <pt x="1586" y="1472" on="0"/>
+        <pt x="1489" y="1379" on="0"/>
+        <pt x="1438" y="1327" on="1"/>
+        <pt x="1406" y="1294" on="1"/>
+        <pt x="1377" y="1324" on="1"/>
+        <pt x="1326" y="1377" on="0"/>
+        <pt x="1228" y="1470" on="0"/>
+        <pt x="1119" y="1540" on="0"/>
+        <pt x="990" y="1581" on="0"/>
+        <pt x="908" y="1581" on="1"/>
+        <pt x="803" y="1581" on="0"/>
+        <pt x="618" y="1501" on="0"/>
+        <pt x="480" y="1363" on="0"/>
+        <pt x="400" y="1178" on="0"/>
+        <pt x="400" y="1073" on="1"/>
+        <pt x="400" y="971" on="0"/>
+        <pt x="477" y="786" on="0"/>
+        <pt x="549" y="714" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+  </glyf>
+
+  <name>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Segoe UI Emoji
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Segoe UI Emoji
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Segoe UI Emoji
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      SegoeUIEmoji
+    </namerecord>
+  </name>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-178"/>
+    <underlineThickness value="119"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+  <gasp>
+    <gaspRange rangeMaxPPEM="8" rangeGaspBehavior="10"/>
+    <gaspRange rangeMaxPPEM="65535" rangeGaspBehavior="15"/>
+  </gasp>
+
+  <GDEF>
+    <Version value="0x00010000"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph=".notdef" class="1"/>
+      <ClassDef glyph="glyph00003" class="1"/>
+      <ClassDef glyph="glyph00004" class="1"/>
+      <ClassDef glyph="glyph00006" class="1"/>
+      <ClassDef glyph="glyph00007" class="1"/>
+      <ClassDef glyph="glyph00008" class="3"/>
+      <ClassDef glyph="u1F469" class="1"/>
+      <ClassDef glyph="uni200D" class="1"/>
+      <ClassDef glyph="uni2764" class="1"/>
+    </GlyphClassDef>
+  </GDEF>
+
+  <GPOS>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="dist"/>
+        <Feature>
+          <!-- LookupCount=4 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+          <LookupListIndex index="3" value="4"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=8 -->
+      <Lookup index="0">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SinglePos Format="2">
+            <Coverage Format="1">
+              <Glyph value="glyph00003"/>
+            </Coverage>
+            <ValueFormat value="1"/>
+            <!-- ValueCount=1 -->
+            <Value index="0" XPlacement="256"/>
+          </SinglePos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SinglePos Format="2">
+            <Coverage Format="1">
+              <Glyph value="glyph00004"/>
+            </Coverage>
+            <ValueFormat value="4"/>
+            <!-- ValueCount=1 -->
+            <Value index="0" XAdvance="256"/>
+          </SinglePos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="8"/>
+          <ChainContextPos Format="3">
+            <!-- BacktrackGlyphCount=0 -->
+            <!-- InputGlyphCount=1 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="glyph00003"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=1 -->
+            <LookAheadCoverage index="0" Format="1">
+              <Glyph value="glyph00004"/>
+            </LookAheadCoverage>
+            <!-- PosCount=1 -->
+            <PosLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="3"/>
+            </PosLookupRecord>
+          </ChainContextPos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SinglePos Format="2">
+            <Coverage Format="1">
+              <Glyph value="glyph00003"/>
+            </Coverage>
+            <ValueFormat value="4"/>
+            <!-- ValueCount=1 -->
+            <Value index="0" XAdvance="256"/>
+          </SinglePos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="8"/>
+          <ChainContextPos Format="3">
+            <!-- BacktrackGlyphCount=0 -->
+            <!-- InputGlyphCount=3 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="glyph00006"/>
+            </InputCoverage>
+            <InputCoverage index="1" Format="1">
+              <Glyph value="glyph00008"/>
+            </InputCoverage>
+            <InputCoverage index="2" Format="1">
+              <Glyph value="glyph00007"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=0 -->
+            <!-- PosCount=3 -->
+            <PosLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="5"/>
+            </PosLookupRecord>
+            <PosLookupRecord index="1">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="6"/>
+            </PosLookupRecord>
+            <PosLookupRecord index="2">
+              <SequenceIndex value="2"/>
+              <LookupListIndex value="7"/>
+            </PosLookupRecord>
+          </ChainContextPos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SinglePos Format="2">
+            <Coverage Format="1">
+              <Glyph value="glyph00006"/>
+            </Coverage>
+            <ValueFormat value="1"/>
+            <!-- ValueCount=1 -->
+            <Value index="0" XPlacement="256"/>
+          </SinglePos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SinglePos Format="2">
+            <Coverage Format="1">
+              <Glyph value="glyph00006"/>
+            </Coverage>
+            <ValueFormat value="4"/>
+            <!-- ValueCount=1 -->
+            <Value index="0" XAdvance="256"/>
+          </SinglePos>
+        </ExtensionPos>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="9"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionPos index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SinglePos Format="2">
+            <Coverage Format="1">
+              <Glyph value="glyph00007"/>
+            </Coverage>
+            <ValueFormat value="4"/>
+            <!-- ValueCount=1 -->
+            <Value index="0" XAdvance="256"/>
+          </SinglePos>
+        </ExtensionPos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=5 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="4"/>
+          <LookupListIndex index="3" value="6"/>
+          <LookupListIndex index="4" value="7"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=10 -->
+      <Lookup index="0">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="6"/>
+          <ChainContextSubst Format="3">
+            <!-- BacktrackGlyphCount=0 -->
+            <!-- InputGlyphCount=1 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="u1F469"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=2 -->
+            <LookAheadCoverage index="0" Format="1">
+              <Glyph value="uni200D"/>
+            </LookAheadCoverage>
+            <LookAheadCoverage index="1" Format="1">
+              <Glyph value="u1F469"/>
+            </LookAheadCoverage>
+            <!-- SubstCount=1 -->
+            <SubstLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="2"/>
+            </SubstLookupRecord>
+          </ChainContextSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="6"/>
+          <ChainContextSubst Format="3">
+            <!-- BacktrackGlyphCount=1 -->
+            <BacktrackCoverage index="0" Format="1">
+              <Glyph value="glyph00003"/>
+            </BacktrackCoverage>
+            <!-- InputGlyphCount=2 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="uni200D"/>
+            </InputCoverage>
+            <InputCoverage index="1" Format="1">
+              <Glyph value="u1F469"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=0 -->
+            <!-- SubstCount=1 -->
+            <SubstLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="3"/>
+            </SubstLookupRecord>
+          </ChainContextSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SingleSubst Format="1">
+            <Substitution in="u1F469" out="glyph00003"/>
+          </SingleSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="4"/>
+          <LigatureSubst Format="1">
+            <LigatureSet glyph="uni200D">
+              <Ligature components="u1F469" glyph="glyph00004"/>
+            </LigatureSet>
+          </LigatureSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="6"/>
+          <ChainContextSubst Format="3">
+            <!-- BacktrackGlyphCount=2 -->
+            <BacktrackCoverage index="0" Format="1">
+              <Glyph value="uni200D"/>
+            </BacktrackCoverage>
+            <BacktrackCoverage index="1" Format="1">
+              <Glyph value="u1F469"/>
+            </BacktrackCoverage>
+            <!-- InputGlyphCount=1 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="uni2764"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=0 -->
+            <!-- SubstCount=1 -->
+            <SubstLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="5"/>
+            </SubstLookupRecord>
+          </ChainContextSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="1"/>
+          <SingleSubst Format="1">
+            <Substitution in="uni2764" out="glyph00008"/>
+          </SingleSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="6"/>
+          <ChainContextSubst Format="3">
+            <!-- BacktrackGlyphCount=0 -->
+            <!-- InputGlyphCount=2 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="u1F469"/>
+            </InputCoverage>
+            <InputCoverage index="1" Format="1">
+              <Glyph value="uni200D"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=3 -->
+            <LookAheadCoverage index="0" Format="1">
+              <Glyph value="glyph00008"/>
+            </LookAheadCoverage>
+            <LookAheadCoverage index="1" Format="1">
+              <Glyph value="uni200D"/>
+            </LookAheadCoverage>
+            <LookAheadCoverage index="2" Format="1">
+              <Glyph value="u1F469"/>
+            </LookAheadCoverage>
+            <!-- SubstCount=1 -->
+            <SubstLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="8"/>
+            </SubstLookupRecord>
+          </ChainContextSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="6"/>
+          <ChainContextSubst Format="3">
+            <!-- BacktrackGlyphCount=2 -->
+            <BacktrackCoverage index="0" Format="1">
+              <Glyph value="glyph00008"/>
+            </BacktrackCoverage>
+            <BacktrackCoverage index="1" Format="1">
+              <Glyph value="glyph00006"/>
+            </BacktrackCoverage>
+            <!-- InputGlyphCount=2 -->
+            <InputCoverage index="0" Format="1">
+              <Glyph value="uni200D"/>
+            </InputCoverage>
+            <InputCoverage index="1" Format="1">
+              <Glyph value="u1F469"/>
+            </InputCoverage>
+            <!-- LookAheadGlyphCount=0 -->
+            <!-- SubstCount=1 -->
+            <SubstLookupRecord index="0">
+              <SequenceIndex value="0"/>
+              <LookupListIndex value="9"/>
+            </SubstLookupRecord>
+          </ChainContextSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="4"/>
+          <LigatureSubst Format="1">
+            <LigatureSet glyph="u1F469">
+              <Ligature components="uni200D" glyph="glyph00006"/>
+            </LigatureSet>
+          </LigatureSubst>
+        </ExtensionSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="7"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ExtensionSubst index="0" Format="1">
+          <ExtensionLookupType value="4"/>
+          <LigatureSubst Format="1">
+            <LigatureSet glyph="uni200D">
+              <Ligature components="u1F469" glyph="glyph00007"/>
+            </LigatureSet>
+          </LigatureSubst>
+        </ExtensionSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
