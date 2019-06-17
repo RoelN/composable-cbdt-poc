@@ -1399,19 +1399,19 @@ c43f4510781db892695b45fc73a9a2418408108a0978a795c220a54a41a00f3884dd0b7f8874959b
 
   <name>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
-      Segoe UI Emoji
+      Composable CBDT POC
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      Segoe UI Emoji
+      Composable CBDT POC
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      Segoe UI Emoji
+      Composable CBDT POC
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
-      SegoeUIEmoji
+      ComposableCBDTPOC
     </namerecord>
   </name>
 
