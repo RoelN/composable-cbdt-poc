@@ -25,4 +25,3 @@
 # (first name; alphabetical order)
 
 Roel Nieskens <roel@kabisa.nl>
-
